@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab bar demo</string>
+    <string name="one">Fragment One</string>
+    <string name="two">Fragment Two</string>
+    <string name="three">Fragment Three</string>
+
+</resources>
